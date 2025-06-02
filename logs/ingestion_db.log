@@ -1,0 +1,15 @@
+2025-06-02 10:21:22,479 - INFO - Ingesting begin_inventory.csv in db
+2025-06-02 10:21:25,706 - INFO - Ingesting end_inventory.csv in db
+2025-06-02 10:21:36,047 - INFO - Ingesting purchases.csv in db
+2025-06-02 10:22:30,618 - INFO - Ingesting purchase_prices.csv in db
+2025-06-02 10:22:46,902 - INFO - Ingesting sales.csv in db
+2025-06-02 10:26:07,465 - INFO - Ingesting vendor_invoice.csv in db
+2025-06-02 10:26:07,750 - INFO - -----------Ingestion Complete-------------
+2025-06-02 10:26:07,751 - INFO - 
+Total time taken : 4.76089653968811 mnutes
+2025-06-02 20:06:59,520 - ERROR - No such comm target registered: jupyter.widget.control
+2025-06-02 20:06:59,531 - WARNING - No such comm: 56e1b8ce-e883-412f-852f-87118110c3fc
+2025-06-02 20:06:59,537 - DEBUG - Current comms: []
+2025-06-02 20:07:29,264 - ERROR - No such comm target registered: jupyter.widget.control
+2025-06-02 20:07:29,269 - WARNING - No such comm: a321f204-fa35-4e13-8590-78b9ef80f765
+2025-06-02 20:07:29,269 - DEBUG - Current comms: []
